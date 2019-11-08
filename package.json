@@ -1,0 +1,24 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "This is a web portal developed using GeoExt, ExtJS and OpenLayers to manage data from different weather stations in the country. This is a sample application to show the aspects in which one can implement a web-mapping application using ExtJS and GeoExt and having the OpenLayers API.",
+  "main": "edited.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel -p 1208 index.html",
+    "build": "parcel build --experimental-scope-hoisting --public-url . index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TranPhucDang/webdemo.git"
+  },
+  "keywords": [
+    "w"
+  ],
+  "bugs": {
+    "url": "https://github.com/TranPhucDang/webdemo/issues"
+  },
+  "homepage": "https://github.com/TranPhucDang/webdemo#readme"
+}
